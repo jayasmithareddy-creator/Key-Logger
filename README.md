@@ -53,7 +53,8 @@ For detailed documentation, see [README_ENHANCED.md](README_ENHANCED.md).
 
     chmod +x key-logger.sh
 
-**Start logging**
+**Start logging*
+
 
     ./key-logger.sh
 
